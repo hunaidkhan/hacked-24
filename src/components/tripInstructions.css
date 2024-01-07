@@ -1,0 +1,17 @@
+#instructions {
+    position: absolute;
+    margin: 20px;
+    width: 25%;
+    top: 20vh;
+    right: 0;
+    bottom: 20%;
+    padding: 20px;
+    background-color: #fff;
+    overflow-y: scroll;
+    font-family: sans-serif;
+    transition: 300ms all ease-in;
+  }
+
+.inactive{
+    transform: translateX(25rem);
+}
