@@ -1,0 +1,28 @@
+*,*::after,*::before{
+  box-sizing: border-box;
+
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+.map-container {
+  height: 100vh;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.sidebar {
+  background-color: rgb(35 55 75 / 90%);
+  color: #fff;
+  padding: 12px;
+  font-family: monospace;
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 12px;
+  border-radius: 4px;
+  min-width: 20vw;
+}
