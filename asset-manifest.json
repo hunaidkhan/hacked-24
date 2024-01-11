@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hacked-24/static/css/main.f2cabd39.css",
+    "main.js": "/hacked-24/static/js/main.1cbcaebe.js",
+    "index.html": "/hacked-24/index.html",
+    "main.f2cabd39.css.map": "/hacked-24/static/css/main.f2cabd39.css.map",
+    "main.1cbcaebe.js.map": "/hacked-24/static/js/main.1cbcaebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2cabd39.css",
+    "static/js/main.1cbcaebe.js"
+  ]
+}
